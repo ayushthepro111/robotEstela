@@ -70,3 +70,10 @@ ________________________________________________________________________________
 - [x] Redactar el comunicado
 - [x] Actualizar la stella
 - [ ] depuración v1.01
+      
+```  
+{  
+ Command_Prompt : python Stella.py
+ //escriba este comando en el símbolo del sistema para obtener resultados//
+}  
+```
