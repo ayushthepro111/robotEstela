@@ -1,5 +1,5 @@
 ### Robot Estela 
-`tiempo de importación
+` tiempo de importación
 sistema de importación
 solicitante de importación
 importar navegador web
@@ -59,4 +59,4 @@ def principal():
         imprimir("ERROR 404")
         
 si __nombre__ == "__principal__":
-    principal()`
+    principal() `
